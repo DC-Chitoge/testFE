@@ -1865,13 +1865,13 @@
   width: 120rem;
   height: 11rem;
 }
-.homepage-2 {
+.container {
   width: 100%;
   position: relative;
   background-color: var(--background);
   height: 129.875rem;
   overflow: hidden;
-  text-align: left;
+  text-align: center;
   font-size: var(--font-size-sm);
   color: var(--title);
   font-family: var(--font-bai-jamjuree);
