@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-bai-jamjuree: 'Bai Jamjuree';
+  --font-icon-dukamarket: icon-dukamarket;
+  --font-blueskytechco: blueskytechco;
+
+  /* font sizes */
+  --font-size-smi: 0.813rem;
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-2xs: 0.688rem;
+  --font-size-3xs: 0.625rem;
+  --font-size-xl: 1.25rem;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.125rem;
+
+  /* Colors */
+  --background: #fff;
+  --title: #212529;
+  --color-gray-100: rgba(255, 255, 255, 0.2);
+  --border: #e5e8ec;
+  --body: #515d66;
+  --body-2: #8e979e;
+  --key: #2b38d1;
+  --key-fashion: #dc323c;
+  --red: #ef262c;
+  --color-lightsteelblue: #b0afcc;
+  --color-orange: #ffb800;
+  --instock: #008a00;
+
+  /* Gaps */
+  --gap-0: 0rem;
+
+  /* Paddings */
+  --padding-3xs: 0.625rem;
+  --padding-9xs: 0.25rem;
+  --padding-2xl: 1.313rem;
+  --padding-6xs: 0.438rem;
+  --padding-mini: 0.938rem;
+
+  /* Border radiuses */
+  --br-8xs: 5px;
+  --br-11xl: 30px;
+  --br-10xs: 3px;
+  --br-11xs: 2px;
+  --br-3xs: 10px;
+}
